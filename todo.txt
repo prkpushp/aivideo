@@ -5,3 +5,4 @@ kids_story
 hot_shots
 trending_politics_in
 trending_politics_us
+trending_cricket
