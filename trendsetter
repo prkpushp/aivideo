@@ -1,3 +1,7 @@
+Prompt:
+
+Animation Story Creation Framework
+-----
 Section 1: 
 Customizable Parameters
 -----
@@ -34,4 +38,5 @@ Essential Guidelines
 "[Character name], [Character Age and Gender], 
 [Hairstyle], [Hair Color], [Facial Expression], 
 [Outfit with specified upper and lower colors], 
-[Action], [Background Des
+[Action], [Background Description], [Style of the Image]."
+-----
